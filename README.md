@@ -33,3 +33,10 @@ We would like to explore and process the flights data in order to answer followi
 - what is the relationship between flights and planes tables?
 - which airplane manufacturer incurred the most delays in the analysis period?
 - which are the two most connected cities?
+
+### Answers:
+- The flight table covers 367  total number of days.
+- The flight database covers 2 departure cities(not airports).
+- The column  'tailnum' of flights data is linked with the planes data . we can know about the year,type,manufacturer,model,engines,number of seats,engine type  of the planes.
+- EMBRAER airplane  manufacturer incurred the most delays in the analysis period.
+- New York-Chicago  are the two most connected cities.
